@@ -1,0 +1,40 @@
+{
+    "data" : [ 
+        {
+            
+    "id": "a8df7743-69cb-401a-a897-3a6df2b9a5ef",
+    "name": "Emotet",
+    "indicators": [
+        {
+            "type": "Domain",
+            "value": "indicator1.com"
+        },
+        {
+            "type": "IPv4",
+            "value": "1.1.1.1"
+        },
+        {
+            "type": "URL",
+            "value": "https://indicator1.com/malicious.docx"
+        },
+        {
+            "type": "URL",
+            "value": "https://indicator2.com/malicious.docx"
+        },
+        {
+            "type": "URL",
+            "value": "https://indicator3.com/malicious.docx"
+        },
+        {
+            "type": "URL",
+            "value": "https://indicator4.com/malicious.docx"
+        },
+        {
+            "type": "URL",
+            "value": "https://indicator5.com/malicious.docx"
+        }
+    
+    ]
+        }
+    ]
+}
